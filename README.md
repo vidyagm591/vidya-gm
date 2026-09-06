@@ -1,4 +1,3 @@
-# vidya-gm
 # 👋 Hi, I'm Vidya gm!
 
 ### 💻 Computer Science Student | Java & DSA Learner | Software Developer | Hackathon Enthusiast
